@@ -7,6 +7,8 @@ namespace BFW_Datensicherheit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Signature.Sign();
+            Signature.Verify();
         }
     }
 }
