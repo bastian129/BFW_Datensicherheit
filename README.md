@@ -15,7 +15,7 @@ Here you are able to find the sourcecode from our lections in Datasecurity.
 Please mind, that the code is only an example and not programmed to be save.
 Sorry for the german comments, but the lectures are in german language.
 
-Following examples are programmed in C#:
+You find following examples programmed in C#:
 - Symmetric Encryption
 - Asymmetric Encryption
 - Digital Signatures
