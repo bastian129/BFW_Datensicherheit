@@ -1,6 +1,6 @@
 # Beispielcode aus Datensicherheit
 In diesem Repository findet man den gesamten Code des Unterrichts in Datensicherheit.
-Achten Sie bitte darauf, dass dieser Code nur exemplasisch die kryptografischen Verfahren in C# zeigt und nicht auf Sicherheit programmiert ist.
+Achten Sie bitte darauf, dass dieser Code nur exemplarisch die kryptografischen Verfahren in C# zeigt und nicht auf Sicherheit programmiert ist.
 
 Sie finden hier folgende Beispiele in C# implentiert:
 - Symmetrische Verschlüsselung
